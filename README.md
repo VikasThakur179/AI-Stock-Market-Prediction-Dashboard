@@ -43,4 +43,5 @@ AI-Stock-Market-Prediction-Dashboard/
 ## 🚀 How to Run
 streamlit run app.py
 
-<img width="1900" height="883" alt="image" src="https://github.com/user-attachments/assets/8c68d49c-fd00-49f3-a727-7cff09f8fa7c" />
+<img width="1900" height="883" alt="AI Stock" src="https://github.com/user-attachments/assets/9e963322-24ea-443a-959d-bc25772d8d33" />
+
