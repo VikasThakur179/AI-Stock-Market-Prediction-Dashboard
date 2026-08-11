@@ -39,3 +39,8 @@ AI-Stock-Market-Prediction-Dashboard/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+
+## 🚀 How to Run
+streamlit run app.py
+
+<img width="1900" height="883" alt="image" src="https://github.com/user-attachments/assets/8c68d49c-fd00-49f3-a727-7cff09f8fa7c" />
