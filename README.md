@@ -15,7 +15,8 @@ The main objective is to use historical stock market data to build a machine lea
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Streamlit / Flask / FastAPI
+- yFinance
+- Streamlit
 - Jupyter Notebook
 
 ## ⚙️ Key Features
@@ -30,7 +31,7 @@ The main objective is to use historical stock market data to build a machine lea
 ## 📂 Project Structure
 
 ```text
-Project-Name/
+AI-Stock-Market-Prediction-Dashboard/
 ├── data/
 ├── notebooks/
 ├── src/
@@ -38,4 +39,3 @@ Project-Name/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
