@@ -1,1 +1,41 @@
 # AI-Stock-Market-Prediction-Dashboard
+
+## 📌 Overview
+
+An end-to-end machine learning project that analyzes historical stock market data and predicts future stock prices. The project includes data preprocessing, exploratory data analysis, model development, and an interactive Streamlit dashboard for visualization and prediction.
+
+## 🎯 Objective
+
+The main objective is to use historical stock market data to build a machine learning model capable of generating stock price predictions and presenting the results through an interactive dashboard..
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Streamlit / Flask / FastAPI
+- Jupyter Notebook
+
+## ⚙️ Key Features
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis
+- Feature engineering
+- Machine learning model development
+- Model evaluation
+- Interactive application / visualization
+
+## 📂 Project Structure
+
+```text
+Project-Name/
+├── data/
+├── notebooks/
+├── src/
+├── screenshots/
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
